@@ -1,6 +1,8 @@
 # My Password Generator
 ![ScreenShot of Project](https://user-images.githubusercontent.com/79175595/116831161-a905f880-ab7b-11eb-972f-ba7cacb2a7d4.jpg)
 
+**My Repository does not have very many commit messages as I had been working and saving my work to an incorrect Repository and was not able to put the correct commit messages.**
+
 Link to website: https://ktodoran.github.io/My-Password-Generator/
 
 This is a landing page for my first created Javascript file, a Password Generator!
